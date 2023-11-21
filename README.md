@@ -6,7 +6,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=champagnepappi&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=champagnepappi&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=champagnepappi&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-## :dizzy:  Connect with Me	
+# 📫 Connect with Me	
 <p>
 <a target="_blank" href="https://www.linkedin.com/in/kevin-ochieng/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:kevinochieng548@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
