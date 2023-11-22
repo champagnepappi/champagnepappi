@@ -16,6 +16,7 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=champagnepappi&icon=8&color=11)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=champagnepappi)
+
 
 Made with ❤️ in Kenya
